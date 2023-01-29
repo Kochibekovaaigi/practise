@@ -1,0 +1,18 @@
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\лаба4\инопланетянин\инопланетянин\bin\Debug\инопланетянин.dll
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\лаба4\инопланетянин\инопланетянин\bin\Debug\инопланетянин.pdb
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.csproj.AssemblyReference.cache
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.csproj.CoreCompileInputs.cache
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.dll
+C:\Users\Honor\OneDrive\Рабочий стол\колледж\программирование\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.pdb
+C:\Users\Nek\Desktop\лаба4\лаба4\инопланетянин\инопланетянин\bin\Debug\инопланетянин.dll
+C:\Users\Nek\Desktop\лаба4\лаба4\инопланетянин\инопланетянин\bin\Debug\инопланетянин.pdb
+C:\Users\Nek\Desktop\лаба4\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.csproj.AssemblyReference.cache
+C:\Users\Nek\Desktop\лаба4\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.csproj.CoreCompileInputs.cache
+C:\Users\Nek\Desktop\лаба4\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.dll
+C:\Users\Nek\Desktop\лаба4\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.pdb
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\лаба4\инопланетянин\инопланетянин\bin\Debug\инопланетянин.dll
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\лаба4\инопланетянин\инопланетянин\bin\Debug\инопланетянин.pdb
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.csproj.AssemblyReference.cache
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.csproj.CoreCompileInputs.cache
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.dll
+C:\Users\Honor\OneDrive\Рабочий стол\распили меня болгаркой\лаба4\инопланетянин\инопланетянин\obj\Debug\инопланетянин.pdb
